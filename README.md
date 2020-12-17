@@ -1,2 +1,0 @@
-# handz-serverless
-Begin app
